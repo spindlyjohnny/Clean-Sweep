@@ -1,0 +1,52 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      204
+    ],
+    "SourceCsetId": 205,
+    "DestinationCsetId": 204,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Animation Controllers/Player.controller",
+        "ItemId": 768,
+        "ParentItemId": 759,
+        "BaseRevId": 6893,
+        "SourceRevId": 7365,
+        "DestinationRevId": 6893
+      },
+      {
+        "Path": "/Assets/Animations/Monster1Attack1.anim",
+        "ItemId": 1512,
+        "ParentItemId": 762,
+        "BaseRevId": 2908,
+        "SourceRevId": 7366,
+        "DestinationRevId": 2908
+      },
+      {
+        "Path": "/Assets/Animations/Monster2Attack.anim",
+        "ItemId": 3090,
+        "ParentItemId": 762,
+        "BaseRevId": 3056,
+        "SourceRevId": 7367,
+        "DestinationRevId": 3056
+      },
+      {
+        "Path": "/Assets/Scripts/LevelManagerScript.cs",
+        "ItemId": 1531,
+        "ParentItemId": 381,
+        "BaseRevId": 7355,
+        "SourceRevId": 7369,
+        "DestinationRevId": 7355
+      },
+      {
+        "Path": "/Assets/Scripts/PlayerController.cs",
+        "ItemId": 392,
+        "ParentItemId": 381,
+        "BaseRevId": 7122,
+        "SourceRevId": 7370,
+        "DestinationRevId": 7122
+      }
+    ]
+  }
+]

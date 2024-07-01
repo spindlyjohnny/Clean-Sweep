@@ -1,0 +1,901 @@
+fileFormatVersion: 2
+guid: be7cea5cffe80554fbaeaff74666fedf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 929525508757694982
+    second: boss foreshadowing_0
+  - first:
+      213: -8730146972743186670
+    second: boss foreshadowing_1
+  - first:
+      213: 4310957217013316175
+    second: boss foreshadowing_2
+  - first:
+      213: 2774735232867134631
+    second: boss foreshadowing_3
+  - first:
+      213: 4152989411889380275
+    second: boss foreshadowing_4
+  - first:
+      213: 9082460155566081402
+    second: boss foreshadowing_5
+  - first:
+      213: 977669399112457889
+    second: boss foreshadowing_6
+  - first:
+      213: -609969106230820339
+    second: boss foreshadowing_7
+  - first:
+      213: -3694021521915130714
+    second: boss foreshadowing_8
+  - first:
+      213: -6755705007803018373
+    second: boss foreshadowing_9
+  - first:
+      213: 1749264884543628473
+    second: boss foreshadowing_10
+  - first:
+      213: -132165604430001648
+    second: boss foreshadowing_11
+  - first:
+      213: 1526154580144049812
+    second: boss foreshadowing_12
+  - first:
+      213: -1425742981311258780
+    second: boss foreshadowing_13
+  - first:
+      213: 259359946867729064
+    second: boss foreshadowing_14
+  - first:
+      213: -6371568707467529550
+    second: boss foreshadowing_15
+  - first:
+      213: -4167393349377750768
+    second: boss foreshadowing_16
+  - first:
+      213: 6480124545374027281
+    second: boss foreshadowing_17
+  - first:
+      213: -6305646329928273011
+    second: boss foreshadowing_18
+  - first:
+      213: -4143287026079730565
+    second: boss foreshadowing_19
+  - first:
+      213: 5590981519334247791
+    second: boss foreshadowing_20
+  - first:
+      213: 1730027104112044447
+    second: boss foreshadowing_21
+  - first:
+      213: -6994942370197664162
+    second: boss foreshadowing_22
+  - first:
+      213: 1799691994606557493
+    second: boss foreshadowing_23
+  - first:
+      213: 6343536115779996114
+    second: boss foreshadowing_24
+  - first:
+      213: 8046256411882384371
+    second: boss foreshadowing_25
+  - first:
+      213: 8866276947378285522
+    second: boss foreshadowing_26
+  - first:
+      213: 341842499641003316
+    second: boss foreshadowing_27
+  - first:
+      213: -6705363642093439362
+    second: boss foreshadowing_28
+  - first:
+      213: -7800479127050902507
+    second: boss foreshadowing_29
+  - first:
+      213: -7478235503705590277
+    second: boss foreshadowing_30
+  - first:
+      213: -6363764732545812008
+    second: boss foreshadowing_31
+  - first:
+      213: 4189204019136109416
+    second: boss foreshadowing_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss foreshadowing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aaa2f768656ec00800000000000000
+      internalID: 929525508757694982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217c0b4259948d680800000000000000
+      internalID: -8730146972743186670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a3cf99fb893db30800000000000000
+      internalID: 4310957217013316175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 144
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac6ecc3ef6d18620800000000000000
+      internalID: 2774735232867134631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbff9bddd162a930800000000000000
+      internalID: 4152989411889380275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75c72bf3616b0e70800000000000000
+      internalID: 9082460155566081402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1ed97321619d00800000000000000
+      internalID: 977669399112457889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 114
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0246236454f887f0800000000000000
+      internalID: -609969106230820339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 114
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc9916ff23cbcc0800000000000000
+      internalID: -3694021521915130714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 112
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73d292b61aee32a0800000000000000
+      internalID: -6755705007803018373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4a94df423a64810800000000000000
+      internalID: 1749264884543628473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 86
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01acc6045147a2ef0800000000000000
+      internalID: -132165604430001648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 86
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e42d5318dfd2510800000000000000
+      internalID: 1526154580144049812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 81
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f9fe9ff4eb63ce0800000000000000
+      internalID: -1425742981311258780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 48
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2e30e5f7e699300800000000000000
+      internalID: 259359946867729064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b23761c404a397a0800000000000000
+      internalID: -6371568707467529550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019830b14d17a26c0800000000000000
+      internalID: -4167393349377750768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11efe4bd0f60ee950800000000000000
+      internalID: 6480124545374027281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 64
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8331695218dd78a0800000000000000
+      internalID: -6305646329928273011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b747800e6661086c0800000000000000
+      internalID: -4143287026079730565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d01bdc118279d40800000000000000
+      internalID: 5590981519334247791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9965603c7a420810800000000000000
+      internalID: 1730027104112044447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 48
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e0a00a9f8fcee90800000000000000
+      internalID: -6994942370197664162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53953ab755ac9f810800000000000000
+      internalID: 1799691994606557493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d98de0ec74c80850800000000000000
+      internalID: 6343536115779996114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb65f1639b0aaf60800000000000000
+      internalID: 8046256411882384371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dba7b878e75b0b70800000000000000
+      internalID: 8866276947378285522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dcb3831f77eb400800000000000000
+      internalID: 341842499641003316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7673374b43c1f2a0800000000000000
+      internalID: -6705363642093439362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514284a00912fb390800000000000000
+      internalID: -7800479127050902507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 128
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5f9e64e68f73890800000000000000
+      internalID: -7478235503705590277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 128
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b27241bd5fa7a0800000000000000
+      internalID: -6363764732545812008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss foreshadowing_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1f3c2cda032a30800000000000000
+      internalID: 4189204019136109416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

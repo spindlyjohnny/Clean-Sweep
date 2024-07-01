@@ -1,0 +1,3 @@
+rep "DGD project 2@YakuzerDGD@cloud"
+  path "/"
+    smartbranch "/main"

@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 8aed7bed25741fe498516a8b4a0f6813
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5803974058161498168
+    second: hotwheels_0
+  - first:
+      213: 4473090785248195889
+    second: hotwheels_1
+  - first:
+      213: 5197601445101331737
+    second: hotwheels_7
+  - first:
+      213: -4812390722022204685
+    second: hotwheels_10
+  - first:
+      213: 8483440623183627034
+    second: hotwheels_11
+  - first:
+      213: 4830581257611728648
+    second: hotwheels_12
+  - first:
+      213: -2221478533988064331
+    second: hotwheels_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hotwheels_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 82
+        width: 86
+        height: 17
+      alignment: 9
+      pivot: {x: 0.87360436, y: 0.5565132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c793b94854247fa0800000000000000
+      internalID: -5803974058161498168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotwheels_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 93
+        height: 22
+      alignment: 9
+      pivot: {x: 0.82806987, y: 0.5115842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135bac6ae5c931e30800000000000000
+      internalID: 4473090785248195889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotwheels_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 83
+        width: 89
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8324119, y: 0.37376073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915625be9f6912840800000000000000
+      internalID: 5197601445101331737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotwheels_10
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 82
+        width: 87
+        height: 22
+      alignment: 9
+      pivot: {x: 0.8273954, y: 0.49942434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1b7da224f63db0800000000000000
+      internalID: -4812390722022204685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotwheels_11
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 82
+        width: 87
+        height: 22
+      alignment: 9
+      pivot: {x: 0.8032746, y: 0.46752688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a138af1bc4c3bb570800000000000000
+      internalID: 8483440623183627034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotwheels_12
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 82
+        width: 87
+        height: 22
+      alignment: 9
+      pivot: {x: 0.83264863, y: 0.46663076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8075b9e6f0ca90340800000000000000
+      internalID: 4830581257611728648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotwheels_13
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 81
+        width: 87
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8074769, y: 0.5025565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36c711b09bb21e0800000000000000
+      internalID: -2221478533988064331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
